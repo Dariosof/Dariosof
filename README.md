@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dariosof
 - 👀 I’m interested in new project
 - 🌱 I’m currently learning javscript, blockchain.
-- 💞️ I’m looking to collaborate on opensource porject
+- 💞️ I’m looking to collaborate on opensource project
 - 📫 How to reach me ...
 
 <!---
